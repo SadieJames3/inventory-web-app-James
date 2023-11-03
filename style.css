@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 
 html {
   color: #070707;
-  font-size: 14px;
+  font-size: 18px;
   margin: 0;
   padding: 0;
 }
@@ -13,11 +13,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Shadows Into Light", cursive;
+  font-family: "Bungee Spice", cursive;
 }
 
 header {
-  background: #861657;
+  background: #0AC5F5;
   color: white;
 }
 
